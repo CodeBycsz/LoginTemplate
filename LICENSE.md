@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) [2024] [CodeBycsz]
+Copyright (c)  2024  Carlos Saenz
 
 Se concede permiso, sin costo alguno, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para usar el Software sin restricción, incluyendo sin limitación los derechos a usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del Software, y para permitir a las personas a las que se les proporcione el Software hacerlo, siempre que se cumpla lo siguiente:
 
